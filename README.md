@@ -1,5 +1,6 @@
 # fixit-exchange Project
 
+[Project Specification](project_spec.md)
 
 src/
 ├── domain/
